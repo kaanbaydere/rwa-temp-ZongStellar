@@ -1,4 +1,4 @@
-# 🏢 RWA Investment Platform
+# 🏢 BAYDERE RWA Investment Platform
 
 A professional Real World Asset (RWA) tokenization and investment platform built on the Stellar blockchain. This platform enables investors to discover, invest in, and trade tokenized real world assets including real estate, commodities, and infrastructure projects.
 

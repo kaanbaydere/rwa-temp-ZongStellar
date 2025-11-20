@@ -53,7 +53,7 @@ export default function Dashboard() {
           <div className="flex flex-col items-center justify-center min-h-[calc(100vh-120px)] space-y-8">
             <div className="text-center space-y-4 max-w-2xl">
               <h1 className="text-4xl font-bold tracking-tight">
-                Real World Asset Investment Platform
+                Baydere DApp For Stellar Zonguldak Workshop
               </h1>
               <p className="text-xl text-muted-foreground">
                 Access tokenized real estate, commodities, and other physical assets 
@@ -111,7 +111,7 @@ export default function Dashboard() {
         <div className="space-y-8">
           {/* Welcome Section */}
           <div className="space-y-4">
-            <h1 className="text-3xl font-bold">Welcome to RWA Investor</h1>
+            <h1 className="text-3xl font-bold">Welcome to Baydere Home.</h1>
             <p className="text-lg text-muted-foreground">
               Your gateway to tokenized real world assets
             </p>
